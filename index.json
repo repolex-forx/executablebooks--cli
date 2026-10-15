@@ -1,0 +1,11 @@
+{
+  "org": "executablebooks",
+  "repo": "cli",
+  "versions": [
+    {
+      "commit": "4510602b4326628b6fe87d666af5cb9d9bf345a0",
+      "tag": "",
+      "parsed_at": "2026-10-15T14:23:02.337928+00:00"
+    }
+  ]
+}
